@@ -1,0 +1,14 @@
+# Text file normalization
+# Generated on 2026-11-15
+*.yaml linguist-detectable=false
+
+*.svg text
+*.gif binary
+Cargo.lock linguist-generated
+* text=auto eol=lf  
+go.sum linguist-generated
+*.html linguist-vendored  
+
+*.go linguist-detectable
+
+public/** linguist-vendored
